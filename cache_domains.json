@@ -121,6 +121,11 @@
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
-		}
+		},
+        {
+            "name": "huggingface",
+            "description": "CDN for hugging face",
+            "domain_files": ["huggingface.txt"]
+        }
 	]
 }
