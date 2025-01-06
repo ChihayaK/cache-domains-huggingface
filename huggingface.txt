@@ -1,0 +1,3 @@
+cdn-lfs.hf.co
+cdn-lfs-us-1.hf.co
+cdn-lfs.huggingface.co
